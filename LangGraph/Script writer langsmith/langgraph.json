@@ -1,0 +1,8 @@
+{
+    "dependencies":["."],
+    "graphs":{
+      "script_writer_agent":"./script_writer.py:agent"
+    },
+    "env":"../.env"
+  
+  }

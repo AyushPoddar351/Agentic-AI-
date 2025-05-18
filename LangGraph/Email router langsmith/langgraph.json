@@ -1,0 +1,8 @@
+{
+    "dependencies":["."],
+    "graphs":{
+      "email_routing_agent":"./email_router.py:agent"
+    },
+    "env":"../.env"
+  
+  }
